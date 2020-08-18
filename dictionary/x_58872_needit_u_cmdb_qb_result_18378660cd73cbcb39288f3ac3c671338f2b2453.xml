@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="cmdb_qb_result_base" label="Get device owner-Query Results" max_length="40" name="x_58872_needit_u_cmdb_qb_result_18378660cd73cbcb39288f3ac3c671338f2b2453" sizeclass="0" type="collection"/>
+</database>
